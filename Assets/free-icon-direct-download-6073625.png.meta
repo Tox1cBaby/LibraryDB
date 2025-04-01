@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 203e435a8f8c9af4e90695ad2870f1a1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4991775473149487326
+    second: free-icon-direct-download-6073625_0
+  - first:
+      213: 8637440399985650932
+    second: free-icon-direct-download-6073625_1
+  - first:
+      213: 6218020187343699009
+    second: free-icon-direct-download-6073625_2
+  - first:
+      213: 6558202561197230694
+    second: free-icon-direct-download-6073625_3
+  - first:
+      213: -2298945084947585447
+    second: free-icon-direct-download-6073625_4
+  - first:
+      213: 2929741711467416936
+    second: free-icon-direct-download-6073625_5
+  - first:
+      213: -4509347968664931898
+    second: free-icon-direct-download-6073625_6
+  - first:
+      213: -7329304388707321393
+    second: free-icon-direct-download-6073625_7
+  - first:
+      213: 661891829030277402
+    second: free-icon-direct-download-6073625_8
+  - first:
+      213: -7756093739127268076
+    second: free-icon-direct-download-6073625_9
+  - first:
+      213: -4726287548472269981
+    second: free-icon-direct-download-6073625_10
+  - first:
+      213: -8171223098218869860
+    second: free-icon-direct-download-6073625_11
+  - first:
+      213: 5467600475623134767
+    second: free-icon-direct-download-6073625_12
+  - first:
+      213: 4226822826631084587
+    second: free-icon-direct-download-6073625_13
+  - first:
+      213: -134728180304954049
+    second: free-icon-direct-download-6073625_14
+  - first:
+      213: -7824172250284615557
+    second: free-icon-direct-download-6073625_15
+  - first:
+      213: 8760615366676604766
+    second: free-icon-direct-download-6073625_16
+  - first:
+      213: -1065126393519550448
+    second: free-icon-direct-download-6073625_17
+  - first:
+      213: -8312491242668916569
+    second: free-icon-direct-download-6073625_18
+  - first:
+      213: -8669448672165609585
+    second: free-icon-direct-download-6073625_19
+  - first:
+      213: -6627123087872739553
+    second: free-icon-direct-download-6073625_20
+  - first:
+      213: -2926471014561395651
+    second: free-icon-direct-download-6073625_21
+  - first:
+      213: 6447784045213818045
+    second: free-icon-direct-download-6073625_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 1
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: free-icon-direct-download-6073625_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 255
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed825936859564540800000000000000
+      internalID: 4991775473149487326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-direct-download-6073625_1
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 485
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fca0c9d74a5ed770800000000000000
+      internalID: 8637440399985650932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-direct-download-6073625_2
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 478
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c34d87a68da4650800000000000000
+      internalID: 6218020187343699009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-direct-download-6073625_3
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 467
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ac7398b7a630b50800000000000000
+      internalID: 6558202561197230694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-direct-download-6073625_4
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 55
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956a19520a18810e0800000000000000
+      internalID: -2298945084947585447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-direct-download-6073625_5
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 453
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d09ab609888a820800000000000000
+      internalID: 2929741711467416936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-direct-download-6073625_6
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 435
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1f81ff9e39b61c0800000000000000
+      internalID: -4509347968664931898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-direct-download-6073625_7
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 391
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc97364ad74194a90800000000000000
+      internalID: -7329304388707321393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-direct-download-6073625_8
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 365
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1155159c138f2900800000000000000
+      internalID: 661891829030277402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-direct-download-6073625_9
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 338
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d10ba76d1dc5490800000000000000
+      internalID: -7756093739127268076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-direct-download-6073625_10
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 309
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36365fef38ad86eb0800000000000000
+      internalID: -4726287548472269981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-direct-download-6073625_11
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 279
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b823a92ebf99e80800000000000000
+      internalID: -8171223098218869860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-direct-download-6073625_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 215
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26164bf9a1d0eb40800000000000000
+      internalID: 5467600475623134767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-direct-download-6073625_13
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 7
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2abbd557f0b8aa30800000000000000
+      internalID: 4226822826631084587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-direct-download-6073625_14
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 183
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d30bf0f69512ef0800000000000000
+      internalID: -134728180304954049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-direct-download-6073625_15
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 153
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b781158eac4fa6390800000000000000
+      internalID: -7824172250284615557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-direct-download-6073625_16
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 125
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e576690a245f39970800000000000000
+      internalID: 8760615366676604766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-direct-download-6073625_17
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 98
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010df593039e731f0800000000000000
+      internalID: -1065126393519550448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-direct-download-6073625_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 54
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a08c2a914914ac80800000000000000
+      internalID: -8312491242668916569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-direct-download-6073625_19
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 37
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f36198d5eefa780800000000000000
+      internalID: -8669448672165609585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-direct-download-6073625_20
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 24
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f173e80e9aab704a0800000000000000
+      internalID: -6627123087872739553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-direct-download-6073625_21
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 14
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c479b0e161367d0800000000000000
+      internalID: -2926471014561395651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-direct-download-6073625_22
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 9
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc96636d612b7950800000000000000
+      internalID: 6447784045213818045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      free-icon-direct-download-6073625_0: 4991775473149487326
+      free-icon-direct-download-6073625_1: 8637440399985650932
+      free-icon-direct-download-6073625_10: -4726287548472269981
+      free-icon-direct-download-6073625_11: -8171223098218869860
+      free-icon-direct-download-6073625_12: 5467600475623134767
+      free-icon-direct-download-6073625_13: 4226822826631084587
+      free-icon-direct-download-6073625_14: -134728180304954049
+      free-icon-direct-download-6073625_15: -7824172250284615557
+      free-icon-direct-download-6073625_16: 8760615366676604766
+      free-icon-direct-download-6073625_17: -1065126393519550448
+      free-icon-direct-download-6073625_18: -8312491242668916569
+      free-icon-direct-download-6073625_19: -8669448672165609585
+      free-icon-direct-download-6073625_2: 6218020187343699009
+      free-icon-direct-download-6073625_20: -6627123087872739553
+      free-icon-direct-download-6073625_21: -2926471014561395651
+      free-icon-direct-download-6073625_22: 6447784045213818045
+      free-icon-direct-download-6073625_3: 6558202561197230694
+      free-icon-direct-download-6073625_4: -2298945084947585447
+      free-icon-direct-download-6073625_5: 2929741711467416936
+      free-icon-direct-download-6073625_6: -4509347968664931898
+      free-icon-direct-download-6073625_7: -7329304388707321393
+      free-icon-direct-download-6073625_8: 661891829030277402
+      free-icon-direct-download-6073625_9: -7756093739127268076
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
